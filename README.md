@@ -47,7 +47,7 @@
 <!-- <br />
 <br /> -->
 
----
+<!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -75,7 +75,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent Github Activity</summary> -->
@@ -88,7 +88,7 @@
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>
